@@ -38,22 +38,32 @@ h1 {
  /* DISPOSIZIONE CARDS */
 
  .container {
-    height: 500px;
-    background-color: lightblue;
+    height: 150px;
     margin-bottom: 30px;
  }
 
-.container-card {
-    padding-right: 20px;
-}
 
- .card {
-    width: calc(100% / 3);
-    height: 60px;
-    background-color: red;
-    border: 2px solid black;
-    float: left;
+ .card1 {
+    background-color: blue;
+    height: 150px;
+    width: 360px;
+    float: left; 
+    margin-right: 30px;
+ }
 
+ .card2 {
+    background-color: blue;
+    height: 150px;
+    width: 360px;
+    float: left; 
+    margin-right: 30px;
+ }
+
+ .card3 {
+    background-color: blue;
+    height: 150px;
+    width: 360px;
+    float: left; 
  }
 
  .clearfix::after {
