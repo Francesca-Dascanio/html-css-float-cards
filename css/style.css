@@ -25,7 +25,39 @@ AZZURRO: #3c83aa
 
 
 /* INTESTAZIONE DEL MAIN */
- h1 {
+header {
+    margin-bottom: 50px;
+} 
+
+h1 {
     color: #e63170;
     text-align: center;
+ }
+
+
+ /* DISPOSIZIONE CARDS */
+
+ .container {
+    height: 500px;
+    background-color: lightblue;
+    margin-bottom: 30px;
+ }
+
+.container-card {
+    padding-right: 20px;
+}
+
+ .card {
+    width: calc(100% / 3);
+    height: 60px;
+    background-color: red;
+    border: 2px solid black;
+    float: left;
+
+ }
+
+ .clearfix::after {
+    content: '';
+    display: table;
+    clear: both;
  }
