@@ -34,6 +34,10 @@ h1 {
     text-align: center;
  }
 
+ h2 {
+    color: #e63170;
+ }
+
 
  /* DISPOSIZIONE CARDS */
 
@@ -44,7 +48,7 @@ h1 {
 
 
  .card1 {
-    background-color: blue;
+    background-color:#0f0e17;
     height: 150px;
     width: 360px;
     float: left; 
@@ -52,7 +56,7 @@ h1 {
  }
 
  .card2 {
-    background-color: blue;
+    background-color:#0f0e17;
     height: 150px;
     width: 360px;
     float: left; 
@@ -60,7 +64,7 @@ h1 {
  }
 
  .card3 {
-    background-color: blue;
+    background-color:#0f0e17;
     height: 150px;
     width: 360px;
     float: left; 
@@ -70,4 +74,8 @@ h1 {
     content: '';
     display: table;
     clear: both;
+ }
+
+ .img {
+    height: 150px;
  }
