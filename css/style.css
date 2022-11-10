@@ -4,3 +4,17 @@
     padding:0;
     box-sizing: border-box;
 }
+
+/* FONT E COLORI
+font-family: 'Fredoka', sans-serif;
+FUCSIA: #e63170
+COLORE CARD: #0f0e17
+AZZURRO: #3c83aa
+ */
+
+ /* REGOLE GENERALI */
+ body {
+    font-family: 'Fredoka', sans-serif;
+ }
+
+ 
