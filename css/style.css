@@ -17,4 +17,15 @@ AZZURRO: #3c83aa
     font-family: 'Fredoka', sans-serif;
  }
 
- 
+ main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+ }
+
+
+/* INTESTAZIONE DEL MAIN */
+ h1 {
+    color: #e63170;
+    text-align: center;
+ }
